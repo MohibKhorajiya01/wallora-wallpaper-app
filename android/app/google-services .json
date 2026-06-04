@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "214471292920",
+    "project_id": "wallora-a79f9",
+    "storage_bucket": "wallora-a79f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214471292920:android:21183af81f9cfe5360080d",
+        "android_client_info": {
+          "package_name": "com.example.wallora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214471292920-atuc51gfqhb7qc55r5g66nbghc0c42rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wallora",
+            "certificate_hash": "51e9a8845084b18fdaccbffa54e974eff288d669"
+          }
+        },
+        {
+          "client_id": "214471292920-7icbo1nf3koojjejdp6cq1pfk74v6uil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bSd8c_bJHLFrLViY6X-xwEWGkiY-FeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214471292920-7icbo1nf3koojjejdp6cq1pfk74v6uil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214471292920-7s3vegg6i6pdnts6pq2k838sg3v153ea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wallora"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
