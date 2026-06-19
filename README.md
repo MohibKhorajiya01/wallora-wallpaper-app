@@ -225,20 +225,6 @@ Make sure you have the following installed:
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/<your-username>/wallora/issues) or open a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute it with attribution.
-
----
-
-<div align="center">
 
 ### 💜 Built with passion using Flutter & Firebase
 
