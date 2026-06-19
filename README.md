@@ -226,7 +226,7 @@ Make sure you have the following installed:
 ---
 
 <div align="center">
-### 💜 Built with passion using Flutter & Firebase
+💜 Built with passion using Flutter & Firebase
 
 **Wallora** — *Where every screen tells a story.*
 
